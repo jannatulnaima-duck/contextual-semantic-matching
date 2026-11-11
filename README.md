@@ -26,7 +26,9 @@ Table of Contents
 ## About The Project
 
 Contextual semantic matching asks whether two lexical units mean the same thing in context. Transformer encoders solve this well, but the evidence they use stays implicit. This project asks whether natural-language **relational rationales** written by an LLM add useful and complementary information.
-
+<p align="center">
+  <img src="wicpicmethod.svg" alt="Framework overview" width="85%">
+</p>
 The pipeline has four parts:
 
 1. **Rationale generation.** Gemini 2.5 Flash describes how the target word or phrase is used in each sentence. The gold label is never shown to the model, and its own yes/no answer is discarded.
