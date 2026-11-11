@@ -1,8 +1,16 @@
-# Relational Rationales from LLMs for Contextual Semantic Matching
+<div id="top"></div>
 
-[Jannatul Naima](mailto:jannatulnaima.cse.cu@gmail.com) and Trina Chakraborty
+<br />
 
-School of Science, Engineering & Technology, East Delta University, Chattogram, Bangladesh.
+<div align="center">
+
+  <h1 align="center">Relational Rationales from LLMs for Contextual Semantic Matching</h1>
+  <p align="center">
+    School of Science, Engineering & Technology, East Delta University, Chattogram, Bangladesh.
+  </p>
+
+ [Jannatul Naima](mailto:jannatulnaima.cse.cu@gmail.com) and Trina Chakraborty
+</div>
 
 Table of Contents
 
